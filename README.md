@@ -47,7 +47,7 @@ Hi, I'm Methembe, a full stack developer who loves coding and learning new thing
 <div align="left">
   <h2>🛒🛒 My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mdv17/Mdv17/main/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mdv17/Mdv17/output/github-contribution-grid-snake.svg" />
 
   
   <br/><br/><br/>
