@@ -58,10 +58,14 @@ Hi, I'm Methembe, a full stack developer who loves coding and learning new thing
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=left>
-  <img width=390 src="https://github-readme-streak-stats-demolab.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-demolab.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdv17)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdv17&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mdv17)  
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
