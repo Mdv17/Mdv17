@@ -44,9 +44,6 @@ Hi, I'm Methembe, a full stack developer who loves coding and learning new thing
 <hr/>
 <br/>
 
-<div align="left">
-  <h2>🛒🛒 My Contributions </h2>
-  <br>
 
   
   <br/><br/><br/>
