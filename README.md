@@ -6,7 +6,7 @@
 
 **`Full Stack Developer`**
 
-Hi, I'm Methembe, a full stack developer who loves coding and learning new things. I started my journey in software development when I wrote my first "Hello, World" program in C, and I was instantly hooked by the power and beauty of programming. Since then, I have been exploring different languages, frameworks, and tools to build high-quality software that solves real-world problems. I enjoy challenging myself with new projects and expanding my knowledge through reading and watching online resources. You can find some of my work here in my GitHub profile, where I showcase my skills and experience in full stack development.✨💫
+Hi, I'm Methembe, a full-stack developer who loves coding and learning new things. I started my journey in software development when I wrote my first "Hello, World" program in C, and I was instantly hooked by the power and beauty of programming. Since then, I have been exploring different languages, frameworks, and tools to build high-quality software that solves real-world problems. I enjoy challenging myself with new projects and expanding my knowledge through reading and watching online resources. You can find some of my work here in my GitHub profile, where I showcase my skills and experience in full-stack development.✨💫
 
 <br/>
 
@@ -40,13 +40,7 @@ Hi, I'm Methembe, a full stack developer who loves coding and learning new thing
     <img src="https://skillicons.dev/icons?i=django,python,javascript,c,mysql" /><br>
 </div>
 
-<br/><br/><br/>
-<hr/>
-<br/>
 
-
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
